@@ -1,0 +1,18 @@
+======================================================================
+FOREST ARRESTS DATA ANALYSIS - SUMMARY REPORT
+======================================================================
+
+Dataset: 1366 arrests from forest conservation area
+Time period: 2023-2025 (primarily)
+
+KEY FINDINGS:
+----------------------------------------------------------------------
+1. Most common crime: Suspected Illegal grazing
+   (335 cases)
+
+2. Gender distribution: 98.5% Male
+
+3. Top receiving station: Mtito
+   (295 suspects)
+
+4. Most affected county: Makueni (178 suspects)
