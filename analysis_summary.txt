@@ -1,11 +1,10 @@
-======================================================================
 FOREST ARRESTS DATA ANALYSIS - SUMMARY REPORT
-======================================================================
+----------------------------------------------------------------------
 
 Dataset: 1366 arrests from forest conservation area
 Time period: 2023-2025 (primarily)
 
-KEY FINDINGS:
+Key Findings:
 ----------------------------------------------------------------------
 1. Most common crime: Suspected Illegal grazing
    (335 cases)
